@@ -1,5 +1,5 @@
-# XGen
-Welcome to XGen, a FNF engine that is currelnty in alpha. Current version is 0.0.1
+# ZGen
+Welcome to ZGen, a FNF engine that is currelnty in alpha. Current version is 0.0.1
 ## Installing and compiling
 **Also, if your not planning on modding this engine, then get [gamebanana version](https://gamebanana.com/tools/7964)**
 1. Install [Haxe](https://haxe.org/download/)
